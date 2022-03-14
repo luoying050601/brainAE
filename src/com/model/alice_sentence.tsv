@@ -1,0 +1,84 @@
+	id	type	onset	offset	sentences
+0		train	0	8	alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do:  once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it,  and what is the use of a book,  thought alice  without pictures or conversation? 
+1		train	9	18	so she was considering in her own mind as well as she could, for the hot day made her feel very sleepy and stupid , whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a white rabbit with pink eyes ran close by her.
+2		train	19	23	there was nothing so very remarkable in that; nor did alice think it so very much out of the way to hear the rabbit say to itself,  oh dear!
+3		train	23	23	oh dear!
+4		train	24	24	i shall be late! 
+5		train	25	42	when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural ; but when the rabbit actually took a watch out of its waistcoat- pocket, and looked at it, and then hurried on, alice started to her feet, for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.
+6		train	43	46	in another moment down went alice after it, never once considering how in the world she was to get out again.
+7		train	47	53	the rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that alice had not a moment to think about stopping herself before she found herself falling down a very deep well.
+8		train	53	58	either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next.
+9		train	59	67	first, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs.
+10		train	68	76	she took down a jar from one of the shelves as she passed; it was labelled  orange marmalade , but to her great disappointment it was empty:  she did not like to drop the jar for fear of killing somebody, so managed to put it into one of the cupboards as she fell past it.
+11		train	77	77	 well! 
+12		train	77	79	thought alice to herself,  after such a fall as this, i shall think nothing of tumbling down stairs!
+13		train	80	81	how brave they ll all think me at home!
+14		train	81	83	why, i would nt say anything about it, even if i fell off the top of the house! 
+15		train	84	84	which was very likely true. 
+16		train	85	85	down, down, down.
+17		train	86	88	would the fall never come to an end!
+18		train	88	90	 i wonder how many miles i ve fallen by this time? 
+19		train	90	90	she said aloud.
+20		train	90	92	 i must be getting somewhere near the centre of the earth.
+21		train	92	103	let me see:  that would be four thousand miles down, i think--  for, you see, alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not a very good opportunity for showing off her knowledge, as there was no one to listen to her, still it was good practice to say it over   --yes, that s about the right distance--but then i wonder what latitude or longitude i ve got to? 
+22		train	104	107	alice had no idea what latitude was, or longitude either, but thought they were nice grand words to say. 
+23		train	108	108	presently she began again.
+24		train	109	110	 i wonder if i shall fall right through the earth!
+25		train	111	113	how funny it ll seem to come out among the people that walk with their heads downward!
+26		train	113	119	the antipathies, i think--  she was rather glad there was no one listening, this time, as it did nt sound at all the right word   --but i shall have to ask them what the name of the country is, you know.
+27		train	120	121	please, mama, is this new zealand or australia? 
+28		train	122	124	and she tried to curtsey as she spoke--fancy curtseying as you re falling through the air!
+29		train	124	125	do you think you could manage it? 
+30		train	126	127	 and what an ignorant little girl she ll think me for asking!
+31		train	127	129	no, it ll never do to ask:  perhaps i shall see it written up somewhere. 
+32		train	130	130	down, down, down.
+33		train	131	133	there was nothing else to do, so alice soon began talking again.
+34		train	134	135	 dinah ll miss me very much to-night, i should think! 
+35		train	136	136	dinah was the cat. 
+36		train	137	138	 i hope they ll remember her saucer of milk at tea time.
+37		train	139	139	dinah my dear!
+38		train	139	140	i wish you were down here with me!
+39		train	140	143	there are no mice in the air, i m afraid, but you might catch a bat, and that s very like a mouse, you know.
+40		train	144	144	but do cats eat bats, i wonder? 
+41		train	145	149	and here alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way,  do cats eat bats?
+42		train	149	150	do cats eat bats? 
+43		train	150	151	and sometimes,  do bats eat cats? 
+44		train	151	154	for, you see, as she could nt answer either question, it did nt much matter which way she put it.
+45		train	154	160	she felt that she was dozing off, and had just begun to dream that she was walking hand in hand with dinah, and saying to her very earnestly,  now, dinah, tell me the truth:  did you ever eat a bat? 
+46		train	161	162	when suddenly, thump!
+47		train	162	162	thump!
+48		train	162	164	down she came upon a heap of sticks and dry leaves, and the fall was over.
+49		train	165	172	alice was not a bit hurt, and she jumped up on to her feet in a moment:  she looked up, but it was all dark overhead; before her was another long passage, and the white rabbit was still in sight, hurrying down it.
+50		train	172	177	there was not a moment to be lost: away went alice like the wind, and was just in time to hear it say, as it turned a corner,  oh my ears and whiskers, how late it s getting! 
+51		train	177	183	she was close behind it when she turned the corner, but the rabbit was no longer to be seen:  she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof.
+52		train	183	190	there were doors all round the hall, but they were all locked; and when alice had been all the way down one side and up the other, trying every door, she walked sadly down the middle, wondering how she was ever to get out again.
+53		train	191	198	suddenly she came upon a little three-legged table, all made of solid glass; there was nothing on it except a tiny golden key, and alice s first thought was that it might belong to one of the doors of the hall; but, alas!
+54		train	198	201	either the locks were too large, or the key was too small, but at any rate it would not open any of them.
+55		train	202	209	however, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high:  she tried the little golden key in the lock, and to her great delight it fitted!
+56		train	210	216	alice opened the door and found that it led into a small passage, not much larger than a rat-hole:  she knelt down and looked along the passage into the loveliest garden you ever saw.
+57		train	216	225	how she longed to get out of that dark hall, and wander about among those beds of bright flowers and those cool fountains, but she could not even get her head through the doorway;  and even if my head would go through,  thought poor alice,  it would be of very little use without my shoulders.
+58		train	226	226	oh, how i wish i could shut up like a telescope!
+59		train	227	228	i think i could, if i only know how to begin. 
+60		train	229	233	for, you see, so many out-of-the-way things had happened lately, that alice had begun to think that very few things indeed were really impossible.
+61		train	234	247	there seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes:  this time she found a little bottle on it,  which certainly was not here before,  said alice,  and round the neck of the bottle was a paper label, with the words  drink me  beautifully printed on it in large letters.
+62		train	247	250	it was all very well to say  drink me,  but the wise little alice was not going to do that in a hurry.
+63		train	251	268	" no, i ll look first,  she said,  and see whether it s marked ""poison"" or not ; for she had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant things, all because they would not remember the simple rules their friends had taught them:  such as, that a red-hot poker will burn you if you hold it too long; and that if you cut your finger very deeply with a knife, it usually bleeds; and she had never forgotten that, if you drink much from a bottle marked  poison,  it is almost certain to disagree with you, sooner or later."
+64		train	269	278	however, this bottle was not marked  poison,  so alice ventured to taste it, and finding it very nice, it had, in fact, a sort of mixed flavour of cherry-tart, custard, pine-apple, roast turkey, toffee, and hot buttered toast,  she very soon finished it off.
+65		train	280	280	 what a curious feeling! 
+66		train	281	282	said alice;  i must be shutting up like a telescope. 
+67		test	282	287	and so it was indeed:  she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going through the little door into that lovely garden.
+68		test	288	295	first, however, she waited for a few minutes to see if she was going to shrink any further:  she felt a little nervous about this;  for it might end, you know,  said alice to herself,  in my going out altogether, like a candle.
+69		test	295	296	i wonder what i should be like then? 
+70		test	296	300	and she tried to fancy what the flame of a candle is like after the candle is blown out, for she could not remember ever having seen such a thing.
+71		test	301	305	after a while, finding that nothing more happened, she decided on going into the garden at once; but, alas for poor alice!
+72		test	305	317	when she got to the door, she found she had forgotten the little golden key, and when she went back to the table for it, she found she could not possibly reach it:  she could see it quite plainly through the glass, and she tried her best to climb up one of the legs of the table, but it was too slippery; and when she had tired herself out with trying, the poor little thing sat down and cried.
+73		test	318	319	 come, there s no use in crying like that! 
+74		test	319	322	said alice to herself, rather sharply;  i advise you to leave off this minute! 
+75		val	322	333	she generally gave herself very good advice, though she very seldom followed it , and sometimes she scolded herself so severely as to bring tears into her eyes; she once remembered trying to box her own ears for having cheated herself in a game of croquet she was playing against herself, for this curious child was very fond of pretending to be two people.
+76		val	334	335	 but it s no use now,  thought poor alice,  to pretend to be two people!
+77		val	336	337	why, there s hardly enough of me left to make one respectable person! 
+78		val	338	344	soon her eye fell on a little glass box that was lying under the table:  she opened it, and found in it a very small cake, on which the words  eat me  were beautifully marked in currants.
+79		val	345	351	 well, i ll eat it,  said alice,  and if it makes me grow larger, i can reach the key; and if it makes me grow smaller, i can creep under the door; so either way i ll get into the garden, and i do nt care which happens! 
+80		val	352	354	she ate a little bit, and said anxiously to herself,  which way?
+81		val	355	355	which way?
+82		val	356	361	 , holding her hand on the top of her head to feel which way it was growing, and she was quite surprised to find that she remained the same size:  to be sure, this generally happens when one eats cake
